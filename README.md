@@ -3,7 +3,7 @@ CellRank is a scalable, easy to use framework to compute directed cell-state tra
 
 CellRank was developed in collaboration between the [Theis lab](https://github.com/theislab) and the Peer lab.
 
-For more information, feel free to refer to our [official page](https://cellrank.readthedocs.io/en/stable/index.html#). 
+For more information, feel free to refer to our [official page](https://cellrank.readthedocs.io/en/stable/index.html#) or our manuscript [Lange et al. (2022)](https://www.nature.com/articles/s41592-021-01346-6) in **Nature Methods**.
 
 # Installation
 For more in-depth instructions, visit our [installation page](https://cellrank.readthedocs.io/en/stable/installation.html).
