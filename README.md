@@ -1,5 +1,7 @@
 # Overview
-CellRank is a scalable, easy to use framework to compute directed cell-state trajectories and uncover cellular dynamics based on Markov state modeling of single-cell data. It is applicable to many single-cell fate mapping scenarios including regeneration, reprogramming and disease, for which direction is unknown. 
+![Overview-image](https://github.com/dpeerlab/cellrank/blob/main/cellrank_fate_map.png)
+
+**CellRank** is a scalable, easy to use framework to compute directed cell-state trajectories and uncover cellular dynamics based on Markov state modeling of single-cell data. It is applicable to many single-cell fate mapping scenarios including regeneration, reprogramming and disease, for which direction is unknown. 
 
 CellRank was developed in collaboration between the [Theis lab](https://github.com/theislab) and the Peer lab.
 
@@ -23,3 +25,5 @@ pip install 'cellrank[krylov]'
 # or with external modules, see External API
 pip install 'cellrank[external]'
 ```
+# Usage
+Please refer to our [official page](https://cellrank.readthedocs.io/en/stable/index.html#) for various examples and tutorials on how to use CellRank.
